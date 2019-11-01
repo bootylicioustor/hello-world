@@ -1,2 +1,4 @@
 # hello-world
-first project
+Hello humans!
+
+Sarah here. I like codes.
